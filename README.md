@@ -1,3 +1,3 @@
 # Interface Homem-Máquina
 
-Projeto de Interface Homem-Máquina
+Projetos de Interface Homem-Máquina
